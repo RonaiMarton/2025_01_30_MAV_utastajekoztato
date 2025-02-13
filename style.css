@@ -28,6 +28,6 @@ td{
 .otodik_oszlop{
     background-color: chartreuse;
 }
-.elso_oszlop, .masodik_oszlop, .harmdik_oszlop, .negyedik_oszlop, .otodik_oszlop:hover {
+.elso_oszlop:hover, .masodik_oszlop:hover, .harmdik_oszlop:hover, .negyedik_oszlop:hover, .otodik_oszlop:hover {
     background-color: aquamarine;
 }

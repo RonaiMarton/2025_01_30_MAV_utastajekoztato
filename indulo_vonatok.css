@@ -1,0 +1,12 @@
+thead, tbody, th {
+    border: hidden;
+    background-color: darkblue;
+    color: white;
+    border-collapse: collapse;
+}
+.egy, .harom, .ot {
+    background-color: lightblue;
+}
+#keso {
+    background-color: red;
+}
