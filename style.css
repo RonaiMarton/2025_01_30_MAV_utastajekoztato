@@ -1,10 +1,9 @@
 table {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 30px;
     text-align: center;
     border-collapse: collapse;
-    padding: 15px;
     background-color: greenyellow;
+    width: 70%;
 }
 th {
     background-color: rgb(111, 179, 10);
@@ -14,13 +13,13 @@ th {
     background-color: red;
 }
 .elso_sor{
-    background-color: chartreuse;
+    background-color: lightgreen;
 }
-.harmdik_sor{
-    background-color: chartreuse;
+.harmadik_sor{
+    background-color: lightgreen;
 }
 .otodik_sor{
-    background-color: chartreuse;
+    background-color: lightgreen;
 }
 tbody :hover {
     background-color: aquamarine;

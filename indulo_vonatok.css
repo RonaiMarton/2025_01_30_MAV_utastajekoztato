@@ -1,16 +1,19 @@
-thead, tbody, th {
+table {
     border: hidden;
-    background-color: darkblue;
     color: white;
     border-collapse: collapse;
-
-    }
-.egy, .harom, .ot {
-    background-color: lightblue;
+    background-color: blue;
+    width: 70%;
 }
 #keso {
     background-color: red;
 }
 table {
     width: 70%;
+}
+.egy, .ot, .harom {
+    background-color: cornflowerblue;
+}
+tbody :hover {
+    background-color: blueviolet;
 }
