@@ -24,3 +24,17 @@ th {
 tbody :hover {
     background-color: aquamarine;
 }
+body {
+    background-color: grey;
+}
+a {
+    background-color: lightgreen;
+    border: solid;
+    border-width: 1px;
+}
+a:visited {
+    color: orange;
+}
+a:hover{
+    color: white;
+}
