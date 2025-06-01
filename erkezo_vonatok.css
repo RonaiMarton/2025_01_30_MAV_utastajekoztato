@@ -1,0 +1,50 @@
+table {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    border-collapse: collapse;
+    background-color: greenyellow;
+    width: 90%;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+th {
+    background-color: rgb(111, 179, 10);
+}
+#red   /* a keső vonat cellája */{
+    border: 1px solid;
+    background-color: red;
+}
+.elso_sor{
+    background-color: lightgreen;
+}
+.harmadik_sor{
+    background-color: lightgreen;
+}
+.otodik_sor{
+    background-color: lightgreen;
+}
+tbody :hover {
+    background-color: aquamarine;
+}
+body {
+    background-image: url(hatter.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.link {
+    text-align: center;
+    margin-top: 30px;
+}
+a {
+    background-color: wheat;
+    border-style: hidden;
+    padding: 4px;
+}
+a:visited {
+    color: blue;
+}
+a:hover{
+    color: darkblue;
+}
